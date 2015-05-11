@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyPlot.Extensions", "OxyPlot.Extensions.csproj", "{8363AA13-A43F-40FC-B7BA-BD64077F47B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyPlot.Extensions", "OxyPlot.Extensions/OxyPlot.Extensions.csproj", "{8363AA13-A43F-40FC-B7BA-BD64077F47B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
