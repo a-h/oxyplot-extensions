@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>oxyplot-extensions</id>
+    <version>1.0.0</version>
+    <authors>a-h</authors>
+    <owners>a-h</owners>
+    <licenseUrl>https://github.com/a-h/oxyplot-extensions/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/a-h/oxyplot-extensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A set of extensions to OxyPlot which reduce the amount of code required to graph data.</description>
+    <releaseNotes>Conversion of GitHub Gist to package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>OxyPlot Graphing C#</tags>
+    <dependencies>
+       <group>
+         <dependency id="OxyPlot.Core" version="2014.1.546" />
+       </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\*.dll" target="lib\net45" />
+  </files>
+</package>
